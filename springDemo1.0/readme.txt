@@ -4,3 +4,11 @@
 3;数据库mysql:Spring-data-jpa;
 4.使用Swagger2构建RESTful API;
 5.使用Thymeleaf模板引擎渲染web视图.
+
+
+
+访问方式：
+http://localhost:8081/
+
+swagger-UI:
+http://localhost:8081/swagger-ui.html#/
